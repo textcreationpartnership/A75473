@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Antidotes against some infectious passages in a tract, concerning schisme.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75473</idno>
+            <idno type="STC">Wing A3499</idno>
+            <idno type="STC">Thomason E142_12</idno>
+            <idno type="STC">ESTC R19075</idno>
+            <idno type="EEBO-CITATION">99860566</idno>
+            <idno type="PROQUEST">99860566</idno>
+            <idno type="VID">156579</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156579)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E142[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Antidotes against some infectious passages in a tract, concerning schisme.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vnderhill at the signe of the Bible in Woodstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Hales, John.  A tract concerning schisme and schismaticks.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hales, John, 1584-1656. --  Tract concerning schisme and schismaticks --  Controversial literature --  Early works to 1800.</term>
+               <term>Schism --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156579:1" rendition="simple:additions"/>
+            <p>ANTIDOTES AGAINST SOME infectious paſſages in a Tract, concerning Schiſme.</p>
+            <p>LONDON, Printed for <hi>Thomas Vnderhill</hi> at the ſigne of the Bible in Woodſtreet, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="2" facs="tcp:156579:2"/>
+            <head>Antidotes againſt ſome infectious paſſages in a Tract, concerning Schiſme.</head>
+            <p>IT is a great pleaſure,<note place="margin">
+                  <hi>Pag. 5.</hi> Toward the end: poore ſpi<g ref="char:EOLhyphen"/>rited perſons.</note> and advan<g ref="char:EOLhyphen"/>tage to the <hi>Socinians,</hi> to leſſen the eſtimation of the judgement of the Fathers, that ſo their mighty works againſt <hi>Arrians,</hi> and others of kin to <hi>Socinians,</hi> may have leſſe credit and truſt; But certainly his Argument doth not follow, That be<g ref="char:EOLhyphen"/>cauſe they have failed in ſome leſſer points, therefore their judgment is not competent in greater: This Argu<g ref="char:EOLhyphen"/>ment being ſet againſt <hi>Barnabas,</hi> and <hi>Paul</hi> would have ſhewed an ill face: Becauſe <hi>Barnabas</hi> and <hi>Paul</hi> did not agree in the ſmall Controverſie of taking <hi>Marke</hi> with them, they were incompetent Judges of greater Con<g ref="char:EOLhyphen"/>troverſies of Faith. It is a wiſe Diſpenſation of <hi>Di<g ref="char:EOLhyphen"/>vine Providence,</hi> That in this life wee know but in part, and it is a great preſervation of Humility, that it is ſo. Our blindneſſe in leſſer matters ſhewes whence wee have our Light in greater, and calls upon us to give the Glory of our Light to the Father of Lights. Again, this knits us the faſter in a ſpirituall Commerce, while one man knowing but in part, hath need of ano<g ref="char:EOLhyphen"/>thers help, who knows that part, which to himſelf was unknowne. If this Authour know more concerning the Controverſie of <hi>Eaſter,</hi> ſurely I believe the Fathers knew more then hee (before hee had read them) of the great Controverſies of the <hi>Trinity,</hi> And certainly if the mighty Arguments taken out of the heart of Scripture, by <hi>Athanaſius, Cyrill</hi> of <hi>Alexandria,</hi> and others, againſt thoſe Hereſies, which are now revived by <hi>Socinians,</hi> be
+<pb n="3" facs="tcp:156579:2"/>duly weighed, it muſt be acknowledged that the Spirit of Truth was powerfull in them, and that they had the very minde of Chriſt: And ſo at worſt, they were but like the Church of <hi>Thyatira,</hi>
+               <note place="margin">Revel 2.</note> which the Spirit com<g ref="char:EOLhyphen"/>mends for <hi>Faith,</hi> and works, though with all the ſame Spirit ſaith, <hi>I have a few things againſt thee.</hi>
+            </p>
+            <p>This paſſage hath need of Salt,<note place="margin">
+                  <hi>Pag. 7.</hi> Towards the end. What if the geſture or adora<g ref="char:EOLhyphen"/>tion be uſed to the Altars?</note> to make it ſavoury. If there be an idolatrous ado<g ref="char:EOLhyphen"/>ration to Altars in one place, and none in another, I think it is no <hi>Schiſme</hi> to forbeare that place, where this abominable wickedneſſe is committed, which both of<g ref="char:EOLhyphen"/>fends God, and vexeth the ſouls of righteous <hi>Lots:</hi> and to goe to another, where neither God, nor man is ſo of<g ref="char:EOLhyphen"/>fended. And it is conſiderable, whether thy voluntary, and indifferent uſing ſuch places doe not encourage ſuch Idolaters in their Idolatry, yea, give ſome hint to a weak brother to think that it is approved by thee. Saint <hi>Pauls</hi> reaſon againſt eating things ſacrificed to Idols, ſeems to lead us to ſuch an opinion. Neither doth this example of the <hi>Iſraelites</hi> comming to <hi>Shiloh,</hi>
+               <note place="margin">Deut. 12.5, 11, 13, 14. 1 Sam. 1.3.</note> (where were the corrupt manners of <hi>Elies</hi> ſons) agree with this caſe: For there was a neceſſity at that time to repaire to that place, it being ſetled, and peculiarly appointed for a great part of Gods worſhip, which could not elſe<g ref="char:EOLhyphen"/>where be performed.</p>
+            <p>It ſeemes that the buyers of this Authour inclines more to <hi>Arrianiſme</hi> than to <hi>Macedonia<g ref="char:EOLhyphen"/>niſme,</hi>
+               <note place="margin">
+                  <hi>Pag. 9.</hi> Indeed Mani<g ref="char:EOLhyphen"/>chaiſme, Valentinaniſme, Macedonianiſme, &amp;c.</note> 
+               <hi>Manichaiſme,</hi> &amp;c. And certainly, if <hi>Socinians</hi> may
+<pb n="4" facs="tcp:156579:3"/>be Judges, they will finde reaſons, why <hi>Arrianiſme</hi> ſhall be accounted but a <hi>Schiſme,</hi> and the others Hereſies: But indifferent Judges will perchance find ſuch to be Judges of partiall thoughts, and that not upright ballances, but ſpeciall favours are uſed in this partiality. For is it not a favour to undertake, that <hi>Valentinus, Manes, Macedo<g ref="char:EOLhyphen"/>nius</hi> did know their Errours to be lies, and <hi>Arrius</hi> did not? Again, though there be ſuch a difference in theſe heads and roots of Errours (which I think this Author can hardly make good out of any acquaintance with their hearts) yet if he had carried an equall affection to each ſide, hee might with equall favour have excuſed their followers, upon whom the names by him expreſ<g ref="char:EOLhyphen"/>ſed (<hi>Arrianiſme, Valentinianiſme, Mahometiſme,</hi> &amp;c.) are fixed: For though the firſt Authors of theſe Sects might differ, yet no queſtion many of their followers were a<g ref="char:EOLhyphen"/>like, and equall, that in ſimplicity of heart, and out of ignorance, not wilfulneſſe, did embrace their Errours. Neither did theſe know, that the opinions, which they received, were lies. Yea, even at this day <hi>Mahometans</hi> generally doe not think, that the Doctrine of <hi>Mahomet,</hi> which they believe, is a Lie: being ſeriouſly, and ex<g ref="char:EOLhyphen"/>treamly zealous in it.</p>
+            <p>Secondly,<note place="margin">Deum verum &amp; cum patre, unum Deum no<g ref="char:EOLhyphen"/>lunt fateri, <hi>Au<g ref="char:EOLhyphen"/>guſt.</hi> cont. ſect. Arianorum. Hi dictitant Nos creaturam quidem illum eſſe dicimus, &amp;c. Epiph. Her. <hi>49. Pſal. 18.</hi>
+               </note> is it not an high favour to affirme, that the Rents in the Church for the opinions of <hi>Arrius,</hi> and <hi>Ne<g ref="char:EOLhyphen"/>ſtorius</hi> were at worſt but <hi>Schiſmes,</hi> and that upon matter of opinion? For is it meerly matter of opinion (where<g ref="char:EOLhyphen"/>in is a ſafe freedome to opine one way or another) to be<g ref="char:EOLhyphen"/>lieve, or not believe that Chriſt Jeſus is not true God, but a creature? Doth not this looke like a matter of ſalvation, or damnation, and not meerly of opinion? Can that faith, which believes not Chriſt to be God, ingraff
+<pb n="5" facs="tcp:156579:3"/>us into him, who is God? And can wee be carried into union with him, further then our faith goes before and apprehends him? If our faith doe not believe him to be true God, our union will not be with him as true God, &amp; being not united to him, as he is God, we can have no ſalvation from him. Chriſt as hee is God is that Rock, on which the Church being built hath ſafety and ſalva<g ref="char:EOLhyphen"/>tion, and in him is that ſaying of <hi>David</hi> verified. <hi>Who is a Rock but God alone?</hi> Again, if there be a reall diſ-union between ſuch a Misbeliever, and Chriſt; Is there not a reall diſ-union betweene ſuch a Misbeliever, and the Members of Chriſt? Hee that is not in union with the Head, hath no union with the members, and this diſ-union is not meerly in matter of opinion, but in deed, and Truth.</p>
+            <p>Thirdly, it ſeemes a very ſcandalous favour allowed to <hi>Arrians</hi> to frame <hi>Liturgies,</hi> for their ſakes, that we, and they might joyn in one <hi>Liturgie</hi> and one Congregation.</p>
+            <p>For is not this in effect to ſay, That in all our <hi>Liturgie</hi> wee muſt not ſay, <hi>Chriſt is very God of very God?</hi> nor call him, that which hee is, nor pray to him as God? yea,<note place="margin">Rom. 9.5. 1 Iohn 5.2.</note> may we read thoſe Chapters, wherein hee is ſaid to be <hi>God bleſſed for ever,</hi> or, <hi>This is the true God, and life eter<g ref="char:EOLhyphen"/>nall?</hi> Far be it from us in the leaſt Atome to abate the Godhead of Chriſt, or the Glory, and worſhip due to that Godhead: to joyne with unbelieving men, that di<g ref="char:EOLhyphen"/>miniſh both his Godhead, and his Glory. If they have not unity with us in the Head, I know no reaſon, why in the name, or for the ſake of that Head, wee may, or ſhould have Communion with them. It is Chriſt (God with us) that unites Chriſtians, who believe in that God Chriſt: And if men are not united to him, and in him
+<pb facs="tcp:156579:4"/>(through the faith which is in him,<note place="margin">1 Tim 3.16.</note> as God manifeſt in the fleſh) there is a true diſunion both betweene Chriſt, and them, and between them and true Chriſtian. And where there is ſuch a Diſ-union, and likewiſe a Diſ-union in the very object of worſhip, how can they fitly joyn in one worſhip, who do not worſhip, one, and the ſame God?</p>
+            <p>Fourthly, it ſeems a favour to the <hi>Arrians,</hi> to ſave them from the title of Hereſie, which is the ancient terme de<g ref="char:EOLhyphen"/>ſervedly faſtned to them. Hee cannot but know that misbelief in fundamentall points was anciently accoun<g ref="char:EOLhyphen"/>ted Hereſie, and it was profitably done to put this miſ<g ref="char:EOLhyphen"/>beliefe under a fearfull name, it being deſtructive to ſal<g ref="char:EOLhyphen"/>vation, that men might ſhun and avoid it. To this end were the Rules and Summes of Faith commonly uſed, and carried about, that men might take the contrary be<g ref="char:EOLhyphen"/>liefs to be Hereſies:<note place="margin">Opt. lib. <hi>1.</hi>
+               </note> So <hi>Optatus, Haeretici veritatis exules, ſani &amp; veriſsimi Symboli deſertores.</hi>
+               <note place="margin">Tertull. de pro<g ref="char:EOLhyphen"/>ſer cap. <hi>14.</hi>
+               </note> And <hi>Tertullian</hi> long before him. <hi>Haec Regula [Fidei] a Chriſto ut probabitur in<g ref="char:EOLhyphen"/>ſtituta, nullas habet apud nos quaeſtiones, niſi quas haeretici infe<g ref="char:EOLhyphen"/>rant aut haereticos faciant.</hi> And if this Authour will needs have the name of Hereſie taken away from theſe miſ<g ref="char:EOLhyphen"/>beliefs, yet he cannot thereby take away the killing na<g ref="char:EOLhyphen"/>ture of them: So are they ſtill mortall, like Hereſies, by what name ſoever they be called. Indeed the wilfull holding of leſſe and extrafundamentall Errours may be deadly, but not from the nature of the points, wheron the Errour is fixed, but by reaſon of the pravity of the will, which affects a Lye, and hath not in it, the love of the truth. But Saint <hi>Auguſtine</hi> being a true believer in the greater points, and not loving Errour in the leſſer (much leſſe in the greater) might well ſay, I may erre, but I will not be an Heretick.</p>
+            <pb n="7" facs="tcp:156579:4"/>
+            <p>Surely a <hi>Socinian</hi> may eaſily thinke that hee may goe to an <hi>Ar<g ref="char:EOLhyphen"/>rian</hi> Church,<note place="margin">
+                  <hi>Pag. 10.</hi> Why may I not goe to an <hi>Arrian</hi> Church?</note> but orthodox Chri<g ref="char:EOLhyphen"/>ſtians have accounted it an abomination: Let us bring forth one example, inſtead of many, not unknowne to this Author.<note place="margin">Epiph. Tom. <hi>2.</hi> adverſ. Haer. Haer. <hi>48.</hi> ſinc <hi>68.</hi>
+               </note> When <hi>Alexander</hi> the Biſhop of <hi>Conſtanti<g ref="char:EOLhyphen"/>nople</hi> ſhould be enforced to admit <hi>Arrius</hi> into his Com<g ref="char:EOLhyphen"/>munion by <hi>Euſebius</hi> a favourite Biſhop of the Court, he fled to ſighes, teares, and prayers, deſiring of God, that he would take him out of this life, that he might not be polluted with the contagion of <hi>Arrius</hi> (a man reproach<g ref="char:EOLhyphen"/>full againſt God) or that God would ſhew ſome ſtrange work; This Prayer ſhortly obtained his requeſt: For <hi>Arrius</hi> going aſide to a place of Retreat, brake in ſunder like <hi>Judas,</hi> and in that unclean place ended his life.] So <hi>Epiphanius.</hi> Their prayers and their perſons are an abo<g ref="char:EOLhyphen"/>mination to that God the Father, who is not well plea<g ref="char:EOLhyphen"/>ſed with any prayers or perſons, that are not preſented to him in the name of God the Sonne. And ſurely if a looſe belief in Chriſt, and ſuch as doth not reach home to his Godhead may be a ground of Communion, why may not this Authour joyne in Communion with the <hi>Mahometans?</hi> whoſe <hi>Alcoran</hi> tels them, that Chriſt was a good man, though not God, which is not much ſhort of the <hi>Arrians.</hi>
+            </p>
+            <p>To call the difference between us and the <hi>Arrians</hi> private fancies,<note place="margin">
+                  <hi>Pag. 10.</hi> Private fancies upon which we differ.</note> is an untrue, and ſcandalous expreſsion. The Scripture I am ſure, is neither of private inſpirati<g ref="char:EOLhyphen"/>on, nor fancy, but men of God ſpake it as they were in<g ref="char:EOLhyphen"/>ſpired with that univerſall Spirit, which breatheth into
+<pb n="8" facs="tcp:156579:5"/>the Catholike Church. For the ſame Spirit, which ani<g ref="char:EOLhyphen"/>mateth the Church, inſpired the Prophets and Apoſtles. Now the Scripture ſaith of Chriſt,<note place="margin">1 Iohn 5.20.</note> 
+               <hi>This is very God:</hi> So indeed to deny Chriſt to be true God is a private fancie of <hi>Arrius</hi> and <hi>Socinus,</hi> but to confeſſe him to be true God, and to pray unto him as ſuch, is a Catholike ve<g ref="char:EOLhyphen"/>rity. Wherefore let every true and Catholike Chriſtian ſay unto Chriſt with converted, and believing <hi>Thomas. My Lord,</hi>
+               <note place="margin">Iohn 20.28.</note> 
+               <hi>and my God.</hi>
+            </p>
+            <closer>AMEN.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
